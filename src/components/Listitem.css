@@ -1,0 +1,33 @@
+.list{
+    background-color: rgb(201, 164, 164);
+     width: 580px;
+     height: 40px;
+     margin: 20px;
+     padding: 0 20px;
+     font-size: 22px;
+     font-style: oblique;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     border-radius: 10px;
+   }
+
+.list p{
+    padding: 10px;
+    position: relative;
+}
+.list p span{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+}
+
+.list p input{
+    background-color: transparent;
+    border: 0px;
+    font-size: 22px;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.list p input:focus{
+    outline: none;
+}

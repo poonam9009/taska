@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/poonam9009/taska/static/css/main.fd01f0ec.chunk.css",
+    "main.js": "/poonam9009/taska/static/js/main.fe4c30e5.chunk.js",
+    "main.js.map": "/poonam9009/taska/static/js/main.fe4c30e5.chunk.js.map",
+    "runtime-main.js": "/poonam9009/taska/static/js/runtime-main.c53abfb0.js",
+    "runtime-main.js.map": "/poonam9009/taska/static/js/runtime-main.c53abfb0.js.map",
+    "static/js/2.ccbbd2f3.chunk.js": "/poonam9009/taska/static/js/2.ccbbd2f3.chunk.js",
+    "static/js/2.ccbbd2f3.chunk.js.map": "/poonam9009/taska/static/js/2.ccbbd2f3.chunk.js.map",
+    "index.html": "/poonam9009/taska/index.html",
+    "precache-manifest.cd5df01daa7eef5a131de3dbe5dc31dc.js": "/poonam9009/taska/precache-manifest.cd5df01daa7eef5a131de3dbe5dc31dc.js",
+    "service-worker.js": "/poonam9009/taska/service-worker.js",
+    "static/css/main.fd01f0ec.chunk.css.map": "/poonam9009/taska/static/css/main.fd01f0ec.chunk.css.map",
+    "static/js/2.ccbbd2f3.chunk.js.LICENSE.txt": "/poonam9009/taska/static/js/2.ccbbd2f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c53abfb0.js",
+    "static/js/2.ccbbd2f3.chunk.js",
+    "static/css/main.fd01f0ec.chunk.css",
+    "static/js/main.fe4c30e5.chunk.js"
+  ]
+}
